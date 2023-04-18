@@ -1,0 +1,17 @@
+<svg width="305" height="456" viewBox="0 0 305 456" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="7.5" cy="8" r="7.5" fill="#D3D3D3"/>
+<circle cx="297.5" cy="8" r="7.5" fill="#D3D3D3"/>
+<line x1="8.5" y1="8" x2="297.5" y2="8.00003" stroke="#D3D3D3" stroke-linecap="round" stroke-dasharray="15 15"/>
+<circle cx="67.5" cy="118" r="7.5" fill="#D3D3D3"/>
+<circle cx="297.5" cy="118" r="7.5" fill="#D3D3D3"/>
+<line x1="68.5" y1="118" x2="297.5" y2="118" stroke="#D3D3D3" stroke-linecap="round" stroke-dasharray="15 15"/>
+<circle cx="97.5" cy="228" r="7.5" fill="#D3D3D3"/>
+<circle cx="297.5" cy="228" r="7.5" fill="#D3D3D3"/>
+<line x1="98.5" y1="228" x2="297.5" y2="228" stroke="#D3D3D3" stroke-linecap="round" stroke-dasharray="15 15"/>
+<circle cx="67.5" cy="338" r="7.5" fill="#D3D3D3"/>
+<circle cx="297.5" cy="338" r="7.5" fill="#D3D3D3"/>
+<line x1="68.5" y1="338" x2="297.5" y2="338" stroke="#D3D3D3" stroke-linecap="round" stroke-dasharray="15 15"/>
+<circle cx="7.5" cy="448" r="7.5" fill="#D3D3D3"/>
+<circle cx="297.5" cy="448" r="7.5" fill="#D3D3D3"/>
+<line x1="8.5" y1="448" x2="297.5" y2="448" stroke="#D3D3D3" stroke-linecap="round" stroke-dasharray="15 15"/>
+</svg>
